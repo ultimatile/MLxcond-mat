@@ -1,0 +1,7 @@
+[submodule "_MLxcond-mat/themes/fuji"]
+	path = _MLxcond-mat/themes/fuji
+	url = https://github.com/amzrk2/hugo-theme-fuji.git
+[submodule "_MLxcond-mat/public"]
+	path = _MLxcond-mat/public
+	url = https://github.com/ultimatile/ultimatile.github.io.git
+	branch = master
